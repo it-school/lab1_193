@@ -12,11 +12,6 @@ public class MainClass {
    public static void main(final String[] args) {
       System.out.println("eye5r6ufyjgku");
       System.out.println("hello");
-      System.out.println("affsgzdhtxfjgcjhvk");
-      System.out.println("affsgzdhtxfjgcjhvk");
-      System.out.println("affsgzdhtxfjgcjhvk");
-      System.out.println("affsgzdhtxfjgcjhvk");
-      System.out.println("affsgzdhtxfjgcjhvk");
-      System.out.println("affsgzdhtxfjgcjhvk");
+
    }
 }
